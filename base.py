@@ -8,4 +8,4 @@ def random_percentage():
 
 
 def print_percentage(x):
-    print(f"{100 * x.:2f}%")
+    print(f"{100 * x:.2f}%")
